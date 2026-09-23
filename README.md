@@ -14,8 +14,6 @@ A tech enthusiast who loves turning complex problems into clean, efficient, and 
 
 
 ### 📫 Connect with Me
-
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 - 📧 **Email:** abduazizovh@gmail.com
 
 *"Coding is not just about writing lines of code; it's about solving real-world problems."*
